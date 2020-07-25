@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+![Screenshot of countdown timer](https://user-images.githubusercontent.com/28762894/88461594-8f37d680-cec2-11ea-9534-cc2f520de445.png)
+
 ## Available Scripts
 
 In the project directory, you can run:
